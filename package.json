@@ -1,0 +1,23 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Abbas Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "cjs": "^0.0.11",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "http-server": "^14.1.1",
+    "mocha": "^10.1.0",
+    "module": "^1.2.5",
+    "nodemon": "^2.0.20",
+    "onnxruntime-web": "^1.13.1",
+    "requires-port": "^1.0.0",
+    "test": "^3.2.1"
+  }
+}
